@@ -1,7 +1,7 @@
 # nasaPicOfTheDay
 
 # Tech used:
-HTML, CSS, JavaScript and and API. 
+HTML, CSS, JavaScript and an API. 
 
 # How It's Made:
 In this project I was learing how to use APIs and the first API I used was the NASA API. I had to pull from the API a picture of the day, so when I look up a past date It shows a picture that NASA took from that day
